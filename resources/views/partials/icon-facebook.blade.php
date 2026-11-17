@@ -1,0 +1,1 @@
+<svg class="social__ico" viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M13.5 22v-8h2.7l.5-3.2h-3.2V8.7c0-.9.4-1.7 1.8-1.7h1.5V4.2S15.1 4 13.9 4C11.3 4 9.7 5.5 9.7 8.4v2.4H7V14h2.7v8z"/></svg>
